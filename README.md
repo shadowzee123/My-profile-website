@@ -12,7 +12,7 @@
     <section>
         <h2>About Me</h2>
         <p>Hello! My name is [ABBA ADO BAWA]. I am passionate about [programing]. I enjoy learning new things and exploring the world of web development.</p>
-<img src="image.JPG" alt="My Profile Picture" width="200">
+<img src="image.jpg" alt="My Profile Picture" width="200">
 <h3>My hobbies</h3>
 <p>1. To become a web desiner</p>
 <p>2. To improve and develop my country with my all knowledge</p>
