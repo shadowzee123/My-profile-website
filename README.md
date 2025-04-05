@@ -19,7 +19,7 @@
     <!-- About Me Section -->
     <section>
         <h2>About Me</h2>
-        <p>Hello! My name is <strong>Abba Ado Bawa</strong>. I am passionate about web development, programming, and technology. I enjoy learning new things and exploring how websites work.</p>
+        <p>Hello! My name is <strong>ABBA ADO BAWA</strong>. I am passionate about web development, programming, and technology. I enjoy learning new things and exploring how websites work.</p>
     </section>
 
     <!-- Hobbies Section -->
