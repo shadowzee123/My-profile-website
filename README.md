@@ -7,24 +7,33 @@
 </head>
 <body>
 
-    <h1>My Profile</h1>
+    <!-- Header Section -->
+    <header>
+        <h1>My Profile</h1>
+        <img src="profile.jpg" alt="My Profile Picture" width="200">
+        <nav>
+            <p>About Me | Hobbies | Contact</p>
+        </nav>
+    </header>
 
-    <!-- Profile Image -->
-    <img src="profile.jpg" alt="My Profile Picture" width="200">
-
+    <!-- About Me Section -->
     <section>
         <h2>About Me</h2>
-       <p>Hello! My name is [ABBA ADO BAWA]. I am passionate about web development, programming, and technology. I have been learning HTML to build amazing websites.</p>
-        
-        <p>In my free time, I enjoy reading books, especially about technology and self-improvement. I'm also a big fan of gaming and exploring new software tools.</p> 
+        <p>Hello! My name is <strong>Abba Ado Bawa</strong>. I am passionate about web development, programming, and technology. I enjoy learning new things and exploring how websites work.</p>
     </section>
 
-    <!-- Footer with Contact Info -->
+    <!-- Hobbies Section -->
+    <section>
+        <h2>Hobbies</h2>
+        <p>I enjoy gaming, reading books (especially about tech), and discovering new software tools. I also like learning programming languages and solving problems.</p>
+    </section>
+
+    <!-- Footer Section -->
     <footer>
-        <h3>Contact Me</h3>
-        <p>Email: <a href="mailto:inuwashadow55@gmail.com">inuwashadow55@gmail.com</a></p>
-        <p>X: <a href="https://x.com/aadobawa123?s=09/yourhandle" target="_blank">@yourhandle</a></p>
-        <p>Instagram: <a href="https://www.instagram.com/invites/contact/?igsh=gq3vtcz0ymqq&utm_content=5wp43n2/yourhandle" target="_blank">@yourhandle</a></p>
+        <h2>Contact</h2>
+        <p>Email: inuwashadow55@gmail.com</p>
+        <p>X: @aadobawa123</p>
+        <p>Instagram: @aadobawa</p>
     </footer>
 
 </body>
