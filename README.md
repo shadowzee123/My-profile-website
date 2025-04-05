@@ -22,9 +22,9 @@
     <!-- Footer with Contact Info -->
     <footer>
         <h3>Contact Me</h3>
-        <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-        <p>Twitter: <a href="https://twitter.com/yourhandle" target="_blank">@yourhandle</a></p>
-        <p>Instagram: <a href="https://instagram.com/yourhandle" target="_blank">@yourhandle</a></p>
+        <p>Email: <a href="mailto:inuwashadow55@gmail.com">inuwashadow55@gmail.com</a></p>
+        <p>X: <a href="https://x.com/aadobawa123?s=09/yourhandle" target="_blank">@yourhandle</a></p>
+        <p>Instagram: <a href="https://www.instagram.com/invites/contact/?igsh=gq3vtcz0ymqq&utm_content=5wp43n2/yourhandle" target="_blank">@yourhandle</a></p>
     </footer>
 
 </body>
