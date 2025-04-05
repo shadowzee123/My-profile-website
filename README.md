@@ -19,13 +19,18 @@
     <!-- About Me Section -->
     <section>
         <h2>About Me</h2>
-        <p>Hello! My name is <strong>ABBA ADO BAWA</strong>. I am passionate about web development, programming, and technology. I enjoy learning new things and exploring how websites work.</p>
+        <p>Hello! My name is <strong>Abba Ado Bawa</strong>. I am passionate about web development, programming, and technology. I enjoy learning new things and exploring how websites work.</p>
     </section>
 
     <!-- Hobbies Section -->
     <section>
         <h2>Hobbies</h2>
-        <p>I enjoy gaming, reading books (especially about tech), and discovering new software tools. I also like learning programming languages and solving problems.</p>
+        <ul>
+            <li>Be come the best websites developer</li>
+            <li>Reading tech blogs and books</li>
+            <li>Exploring new software tools</li>
+            <li>Learning programming languages</li>
+        </ul>
     </section>
 
     <!-- Footer Section -->
